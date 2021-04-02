@@ -1,0 +1,9 @@
+C:\Users\Brkco\source\repos\MediatR\MediatR.BUS\bin\Debug\netcoreapp3.1\MediatR.BUS.deps.json
+C:\Users\Brkco\source\repos\MediatR\MediatR.BUS\bin\Debug\netcoreapp3.1\MediatR.BUS.dll
+C:\Users\Brkco\source\repos\MediatR\MediatR.BUS\bin\Debug\netcoreapp3.1\MediatR.BUS.pdb
+C:\Users\Brkco\source\repos\MediatR\MediatR.BUS\obj\Debug\netcoreapp3.1\MediatR.BUS.csprojAssemblyReference.cache
+C:\Users\Brkco\source\repos\MediatR\MediatR.BUS\obj\Debug\netcoreapp3.1\MediatR.BUS.AssemblyInfoInputs.cache
+C:\Users\Brkco\source\repos\MediatR\MediatR.BUS\obj\Debug\netcoreapp3.1\MediatR.BUS.AssemblyInfo.cs
+C:\Users\Brkco\source\repos\MediatR\MediatR.BUS\obj\Debug\netcoreapp3.1\MediatR.BUS.csproj.CoreCompileInputs.cache
+C:\Users\Brkco\source\repos\MediatR\MediatR.BUS\obj\Debug\netcoreapp3.1\MediatR.BUS.dll
+C:\Users\Brkco\source\repos\MediatR\MediatR.BUS\obj\Debug\netcoreapp3.1\MediatR.BUS.pdb
